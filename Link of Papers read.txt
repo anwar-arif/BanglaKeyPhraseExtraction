@@ -1,0 +1,19 @@
+1. 	Automatic Multi-Document Arabic Text Summarization Using
+	Clustering and Keyphrase Extraction
+
+	http://docsdrive.com/pdfs/ansinet/jai/0000/70493-70493.pdf
+
+2. 	An n-gram based method for bengali keyphrase extraction
+	
+	ftp://94.244.139.11/lit/1.%20Manuals/Information%20Systems%20for%20Indian%20Languages.pdf#page=53
+
+3.	Keyword and Keyphrase Extraction Using
+	Centrality Measures on Collocation Networks
+
+	https://arxiv.org/pdf/1401.6571.pdf
+
+4.	Automatic Construction and Ranking of Topical Keyphrases on
+	Collections of Short Documents
+
+	http://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.46
+
